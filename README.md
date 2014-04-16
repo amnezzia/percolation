@@ -1,7 +1,7 @@
 percolation
 ===========
 
-Simulating percolation threshold with weighted quick union algorithm with path compression
+Simulating percolation threshold by weighted quick union algorithm with path compression
 
 Inspired by programming assignments for Coursera course:
 https://class.coursera.org/algs4partI-004
